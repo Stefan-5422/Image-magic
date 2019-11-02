@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\bin\Debug\Picturre disassambler.exe.config
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\bin\Debug\Picturre disassambler.exe
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\bin\Debug\Picturre disassambler.pdb
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre_disassambler.Form1.resources
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre_disassambler.Properties.Resources.resources
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.exe
+C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.pdb

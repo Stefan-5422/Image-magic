@@ -1,0 +1,10 @@
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\bin\Debug\Image Reassambler.exe.config
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\bin\Debug\Image Reassambler.exe
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\bin\Debug\Image Reassambler.pdb
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csprojAssemblyReference.cache
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image_Reassambler.Form1.resources
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image_Reassambler.Properties.Resources.resources
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csproj.GenerateResource.cache
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csproj.CoreCompileInputs.cache
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.exe
+C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.pdb
