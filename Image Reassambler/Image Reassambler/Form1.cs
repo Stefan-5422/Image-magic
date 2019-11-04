@@ -67,7 +67,7 @@ namespace Image_Reassambler
             }
             
             int width = Convert.ToInt32(lenghtstring, 2);
-            int height = (int)(image.Width / width * (image.Height)); //+ (image.Width - 32) / width);
+            int height = (int)(image.Width / width * (image.Height - 1));
             textBox3.Text = lenghtstring + " " + lenghtstring.Length + " " + width+ " " + height;
             int lenght = 32;
             int imheight = 0;

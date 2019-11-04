@@ -8,3 +8,13 @@ C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debu
 C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csproj.CoreCompileInputs.cache
 C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.exe
 C:\Users\stefa\source\repos\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.pdb
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\bin\Debug\Picturre disassambler.exe.config
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\bin\Debug\Picturre disassambler.exe
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\bin\Debug\Picturre disassambler.pdb
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csprojAssemblyReference.cache
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre_disassambler.Form1.resources
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre_disassambler.Properties.Resources.resources
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csproj.GenerateResource.cache
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.exe
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Picturre disassambler\Picturre disassambler\obj\Debug\Picturre disassambler.pdb

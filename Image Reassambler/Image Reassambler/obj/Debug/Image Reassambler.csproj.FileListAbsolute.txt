@@ -8,3 +8,13 @@ C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image 
 C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csproj.CoreCompileInputs.cache
 C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.exe
 C:\Users\stefa\source\repos\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.pdb
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\bin\Debug\Image Reassambler.exe.config
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\bin\Debug\Image Reassambler.exe
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\bin\Debug\Image Reassambler.pdb
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csprojAssemblyReference.cache
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image_Reassambler.Form1.resources
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image_Reassambler.Properties.Resources.resources
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csproj.GenerateResource.cache
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.csproj.CoreCompileInputs.cache
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.exe
+C:\Users\Stefan Kössner\Documents\GitHub\Image-magic\Image Reassambler\Image Reassambler\obj\Debug\Image Reassambler.pdb

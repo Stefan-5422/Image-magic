@@ -33,7 +33,7 @@ namespace Picturre_disassambler
             textBox1.Text = openFileDialog1.FileName;
             image = new Bitmap(openFileDialog1.OpenFile());
             if (image.Width * image.Height < 32768) maxLenght = image.Width * image.Height; else maxLenght = 32768;
-            int height = (int)Math.Ceiling((double)image.Width * image.Height / 32768);
+            int height = (int)Math.Ceiling((double)image.Width * image.Height / 32768) + 1;
             outImage = new Bitmap(maxLenght, height);
             pictureBox1.Image = image;
         }
@@ -114,6 +114,11 @@ namespace Picturre_disassambler
                     }
                 }
             }
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
